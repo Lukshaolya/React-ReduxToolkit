@@ -6,7 +6,6 @@ import { setupListeners } from "@reduxjs/toolkit/query"
 
 // export type RootState = ReturnType<typeof rootReducer>
 
-
 // export const makeStore = (preloadedState?: Partial<RootState>) => {
 //   const store = configureStore({
 //     reducer: rootReducer,
